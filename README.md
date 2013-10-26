@@ -1,4 +1,5 @@
-devon2013_gdgssu_cocostudio_example
+CocoStudio - SceneEditor
+Codelab in devon2013
 ===================================
 
 SceneEditor in CocoStudio example project
